@@ -1,0 +1,4 @@
+const data = [
+  'hola',
+  'mundo'
+]
